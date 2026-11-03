@@ -1,0 +1,9 @@
+{
+  "name": "pretty-session",
+  "version": "0.1.0",
+  "description": "Draws the transcript like a chat page: bubbles for you, cards for Claude, chips for tool calls.",
+  "author": {
+    "name": "João Silva"
+  },
+  "types": "./types/index.d.ts"
+}
